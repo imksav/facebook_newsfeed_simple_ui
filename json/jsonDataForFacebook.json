@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "profileName": "Bhim Lal Bhandari",
+        "update": "updated a profile picture",
+        "profilePic": "images/1.jpg",
+        "date": "Aug 26",
+        "status": "#Hello, How are you?",
+        "displayPic": "images/1.jpg",
+        "likes": "100",
+        "comments": "50",
+        "shares": "25"
+    },
+    {
+        "id": 2,
+        "profileName": "Maya Bhandari",
+        "update": "updated a cover picture",
+        "profilePic": "images/2.jpg",
+        "date": "Jan 1",
+        "status": "#Peace\n#Nature",
+        "displayPic": "images/2.jpg",
+        "likes": "200",
+        "comments": "100",
+        "shares": "50"
+    },
+    {
+        "id": 3,
+        "profileName": "Ram Prasad Bhandari",
+        "update": "added a picture",
+        "profilePic": "images/3.jpg",
+        "date": "just now",
+        "status": "Enjoy your life. #Ram",
+        "displayPic": "images/3.jpg",
+        "likes": "300",
+        "comments": "150",
+        "shares": "75"
+    },
+    {
+        "id": 4,
+        "profileName": "Aakriti Bhandari",
+        "update": "added a picture",
+        "profilePic": "images/4.jpg",
+        "date": "yesterday at 4:55 pm",
+        "status": "Life is beautiful",
+        "displayPic": "images/4.jpg",
+        "likes": "400",
+        "comments": "200",
+        "shares": "100"
+    },
+    {
+        "id": 5,
+        "profileName": "Keshav Bhandari",
+        "update": "updated a profile picture",
+        "profilePic": "images/5.jpg",
+        "date": "Aug 26",
+        "status": "So, What!",
+        "displayPic": "images/5.jpg",
+        "likes": "500",
+        "comments": "250",
+        "shares": "125"
+    },
+    {
+        "id": 6,
+        "profileName": "Xyz Abc",
+        "update": "updated a profile picture",
+        "profilePic": "images/5.jpg",
+        "date": "Aug 26",
+        "status": "I am Xyz Abc.",
+        "displayPic": "images/5.jpg",
+        "likes": "500",
+        "comments": "250",
+        "shares": "125"
+    },
+    {
+        "id": 7,
+        "profileName": "Abc Xyz",
+        "update": "updated a profile picture",
+        "profilePic": "images/5.jpg",
+        "date": "Aug 26",
+        "status": "I am Abc Xyz.",
+        "displayPic": "images/5.jpg",
+        "likes": "500",
+        "comments": "250",
+        "shares": "125"
+    },
+    {
+        "id": 8,
+        "profileName": "Keshav Bhandari",
+        "update": "updated a profile picture",
+        "profilePic": "images/5.jpg",
+        "date": "Aug 26",
+        "status": "I am Keshav Bhandari.",
+        "displayPic": "images/5.jpg",
+        "likes": "500",
+        "comments": "250",
+        "shares": "125"
+    },
+    {
+        "id": 9,
+        "profileName": "Xyz Bhandari",
+        "update": "updated a profile picture",
+        "profilePic": "images/5.jpg",
+        "date": "Aug 26",
+        "status": "I am Keshav Bhandari.",
+        "displayPic": "images/5.jpg",
+        "likes": "500",
+        "comments": "250",
+        "shares": "125"
+    },
+    {
+        "id": 10,
+        "profileName": "Abc Bhandari",
+        "update": "updated a profile picture",
+        "profilePic": "images/5.jpg",
+        "date": "Aug 26",
+        "status": "I am Keshav Bhandari.",
+        "displayPic": "images/5.jpg",
+        "likes": "500",
+        "comments": "250",
+        "shares": "125"
+    }
+]
